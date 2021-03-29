@@ -1,0 +1,17 @@
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\bin\Release\AUTOMOTORA.exe.config
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\bin\Release\AUTOMOTORA.exe
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\bin\Release\AUTOMOTORA.pdb
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Release\AUTOMOTORA.csprojAssemblyReference.cache
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Release\AUTOMOTORA.P1.resources
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Release\AUTOMOTORA.Form2.resources
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Release\AUTOMOTORA.Form3.resources
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Release\AUTOMOTORA.Form4.resources
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Release\AUTOMOTORA.Form5.resources
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Release\AUTOMOTORA.Form6.resources
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Release\AUTOMOTORA.Form7.resources
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Release\AUTOMOTORA.Form8.resources
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Release\AUTOMOTORA.Properties.Resources.resources
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Release\AUTOMOTORA.csproj.GenerateResource.cache
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Release\AUTOMOTORA.csproj.CoreCompileInputs.cache
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Release\AUTOMOTORA.exe
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Release\AUTOMOTORA.pdb

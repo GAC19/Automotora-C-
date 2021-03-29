@@ -1,0 +1,17 @@
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\bin\Debug\AUTOMOTORA.exe.config
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\bin\Debug\AUTOMOTORA.exe
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\bin\Debug\AUTOMOTORA.pdb
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Debug\AUTOMOTORA.csprojAssemblyReference.cache
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Debug\AUTOMOTORA.P1.resources
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Debug\AUTOMOTORA.Properties.Resources.resources
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Debug\AUTOMOTORA.csproj.GenerateResource.cache
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Debug\AUTOMOTORA.csproj.CoreCompileInputs.cache
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Debug\AUTOMOTORA.exe
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Debug\AUTOMOTORA.pdb
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Debug\AUTOMOTORA.Form2.resources
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Debug\AUTOMOTORA.Form3.resources
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Debug\AUTOMOTORA.Form4.resources
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Debug\AUTOMOTORA.Form5.resources
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Debug\AUTOMOTORA.Form6.resources
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Debug\AUTOMOTORA.Form8.resources
+D:\Los Leones\LOS LEONES\Segundo Semestre\3.- Programacion I\INTEGRATIVA\AUTOMOTORA\AUTOMOTORA\obj\Debug\AUTOMOTORA.Form7.resources
